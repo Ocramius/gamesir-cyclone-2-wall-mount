@@ -5,6 +5,8 @@ for printing a [Gamesir Cyclone 2](https://gamesir.com/products/gamesir-cyclone2
 wall-mount.
 
 ![Gamesir Cyclone 2 Wall Mount](gamesir-cyclone-2-wall-mount.png)
+![Gamesir Cyclone 2 Wall Mount - before assembly](gamesir-cyclone-2-wall-mount-before-assembly.jpg)
+![Gamesir Cyclone 2 Wall Mount - after assembly](gamesir-cyclone-2-wall-mount-after-assembly.jpg)
 
 ## Printing
 
