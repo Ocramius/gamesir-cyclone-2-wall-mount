@@ -4,6 +4,10 @@ Contains some [FreeCAD](https://www.freecad.org/) design and exported 3MF files
 for printing a [Gamesir Cyclone 2](https://gamesir.com/products/gamesir-cyclone2-black)
 wall-mount.
 
+![Gamesir Cyclone 2 Wall Mount](gamesir-cyclone-2-wall-mount.png)
+
+## Printing
+
 I recommend printing in either white or black PLA, depending on your controller's colour.
 
 I had good printing results with:
